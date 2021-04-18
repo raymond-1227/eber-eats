@@ -9,7 +9,7 @@ Please [click here](https://raymond-1227.github.io/eber-eats) to view the food d
 
 ## Credits
 
- - HTML, and CSS Idea: 
+ - HTML, CSS, and JavaScript Ideas: 
    - [How To Create Custom Input Field Using Html & CSS | Floating Placeholder](https://www.youtube.com/watch?v=IvW904CCnFs)
-   - [Create A Custom Select Box using only HTML & CSS](https://www.youtube.com/watch?v=OesmxT-kGSM)
+   - [Design A Custom Select Box Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=k4gzE80FKb0)
  - Site Builder: [Brizy](https://www.brizy.io/)
