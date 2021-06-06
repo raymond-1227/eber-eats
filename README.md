@@ -1,11 +1,11 @@
 # Eber Eats
 
 ## About
-This website was only made for a school project which was required for a video.
+This website was only made for a school project which was required for a video. (after many hours of editing the school video, school decided to cancel the entire thing, damn it)
 
 ## View the Template
 
-Please [click here](https://raymond-1227.github.io/eber-eats) to view the food delivery website template!
+Please [click here](https://raymond-1227.github.io/eber-eats) to view the food delivery website template! (but in Chinese)
 
 ## Credits
 
